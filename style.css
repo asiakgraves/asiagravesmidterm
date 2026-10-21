@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Archivo Black', Serif;
+    color: rgb(200, 94, 222);
+    text-align: center;
+   padding: 40px;
+    }
+
+
+
+* {
+    font-family: 'Josefin Sans', serif;
+   color: rgb(125, 85, 171);
+}
+
+h2 {
+font-family: 'Josefin Sans', serif;
+color: rgb(176, 101, 189);
+}
+
+* {
+
+background-color: rgb(246, 239, 254);
+}
+
+img {
+
+scale: 50%;
+margin-top: -800px;
+margin-left: 350px;
+}
